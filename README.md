@@ -1,10 +1,8 @@
-┈╭━╮
-┈┃╭╯╱
-╭╯╰┳╮╭┳━━╮╱
-╰╮╭┫┃┃┃╭╮┃
-┈┃┃┃╰╯┃┃┃┃╱
-┈╰╯╰━━┻╯╰╯
-
+/"""""""""""""""""\___/ ===
+{                       /  ===-
+\______ O           __/
+ \    \         __/
+  \____\_______/
 
 # Acme.BookStore
 
@@ -14,9 +12,3 @@ If you want to learn Abp Framework, you can review this project.
 
 Angular latest version (14.11.2022) and Microsoft SQL Server must be installed to run the project.
 
-┈╭━╮
-┈┃╭╯╱
-╭╯╰┳╮╭┳━━╮╱
-╰╮╭┫┃┃┃╭╮┃
-┈┃┃┃╰╯┃┃┃┃╱
-┈╰╯╰━━┻╯╰╯
